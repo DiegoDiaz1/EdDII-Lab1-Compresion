@@ -28,7 +28,7 @@ namespace CompressionCode
             return gZipBuffer;
         }
 
-        public static byte[] decompress(byte[] gzBuffer)
+        public static byte[] Decompress(byte[] gzBuffer)
         {
             MemoryStream ms = new MemoryStream();
             int msgLength = BitConverter.ToInt32(gzBuffer, 0);
