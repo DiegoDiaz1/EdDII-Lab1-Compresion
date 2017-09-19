@@ -1,0 +1,6 @@
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\CompressionCode.csprojResolveAssemblyReference.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\CompressionCode.csproj.CoreCompileInputs.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
