@@ -1,0 +1,7 @@
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.pdb
