@@ -1,0 +1,7 @@
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\bin\Debug\Lab2_Compresion.exe.config
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\bin\Debug\Lab2_Compresion.exe
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\bin\Debug\Lab2_Compresion.pdb
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\obj\Debug\Lab2_Compresion.csprojResolveAssemblyReference.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\obj\Debug\Lab2_Compresion.csproj.CoreCompileInputs.cache
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\obj\Debug\Lab2_Compresion.exe
+C:\Users\Diego Diaz\Documents\Visual Studio 2017\Projects\Lab2_Compresion\Lab2_Compresion\obj\Debug\Lab2_Compresion.pdb
